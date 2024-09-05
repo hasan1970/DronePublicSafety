@@ -45,7 +45,7 @@ npx expo start
 ```
 ## Links
 
-[Devpost Link](https://devpost.com/software/winter-arch)
+[Devpost Link](https://devpost.com/software/aerial-escort)
 
 ## Contributors
 Hasan Shameer |
