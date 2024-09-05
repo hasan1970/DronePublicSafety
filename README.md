@@ -43,8 +43,11 @@ flask run
 ```Bash
 npx expo start
 ```
+## Links
+
+[Devpost Link](https://devpost.com/software/winter-arch)
 
 ## Contributors
-Hasan Shameer
-Sarthak Awasthi
+Hasan Shameer |
+Sarthak Awasthi |
 Abu Zaid Khan
